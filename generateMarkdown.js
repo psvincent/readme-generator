@@ -15,22 +15,22 @@ function generateMarkdown(data) {
   // Gives the title and the one below the title renders the picture for the license
   return `# ${data.title}
 
-  ![Github licence](http://img.shields.io/badge/license-${data.license[0]}-blue.svg)
+  ![Github license](http://img.shields.io/badge/license-${data.license[0]}-blue.svg)
 
 ## Table of Contents
-* [Description] (#description)
-* [Installation] (#installation)
-* [Usage] (#usage)
-* [Contact] (#email)
-* [Contribution] (#contribution)
-* [Testing] (#test)
-* [License] (#license)
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contact](#email)
+* [Contribution](#contribution)
+* [Testing](#test)
+* [License](#license)
 
   ## Description
   ${data.description}
 
   ## Installation
-  ${data.insallation}
+  ${data.installation}
 
   ## Usage
   ${data.usage}
