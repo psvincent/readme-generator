@@ -34,12 +34,6 @@ const questions = () => {
         message: 'How does the user use this application?'
     },
     {
-        // Asks who the user can contact if their is an issue or if they just need to contact the creator.
-        type: 'input',
-        name: 'contact',
-        message: 'Who can the user contact if they have an issue or want to contact you?'
-    },
-    {
         // Tells the user how they can contribute and the guidelines to contribute
         type: 'input',
         name: 'contribution',
