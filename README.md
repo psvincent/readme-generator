@@ -1,4 +1,4 @@
-# TEST
+# README File Generator
 
   ![Github license](http://img.shields.io/badge/license-M-blue.svg)
 
@@ -12,23 +12,23 @@
 * [License](#license)
 
   ## Description
-  this is a test
+  This application generates a detailed README file for you with your own title, description, installation method, usage, contact info, contribution info, test info, and license.  All you have to do is type your specific information in the terminal.
 
   ## Installation
-  you install it
+  You install this by first cloning the code into your project, then by making sure you have node and inquirer installed.
 
   ## Usage
-  they use it
+  You use this application by typing node index.js into the terminal and answering the given prompts. If you can't get the prompts to pull up, make sure you have node and inquirer installed.
 
   ## Contact 
   You can contact this email for further questions or any suggestions on the app: psvincent12@gmail.com
   You can also look at my other projects/apps here: https://github.com/psvincent?tab=repositories
 
   ## Contribution
-  they can contribute
+  You can contribute to this project by cloning it into your own local repository and edit it as you like. I do not have any contribution guidelines.
 
   ## Test
-  they test it 
+  You can test this application by typing node index.js into the terminal and if there is a problem it should output where it is in the terminal.
 
   ## License
   MIT
