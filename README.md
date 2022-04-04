@@ -1,6 +1,10 @@
 # README File Generator
 
   ![Github license](http://img.shields.io/badge/license-M-blue.svg)
+  
+## Video of working application
+
+https://user-images.githubusercontent.com/97009239/161457648-e926bc43-f37a-452e-ac26-2a54ffbe5c41.mp4
 
 ## Table of Contents
 * [Description](#description)
